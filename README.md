@@ -74,9 +74,4 @@ Swiss innovations in tyre recycling, including advanced machinery and robust pol
 3. Revenue Generation: Measure financial success from recycled products.
 4. Community Engagement: Conduct surveys on consumer awareness and product acceptance.
 
-# Contribution
-I welcome contributions to this project! You can help by:
-1. Reporting issues you encounter with the recycling methods or processes.
-2. Contributing code or data that can enhance the project’s goals.
-3. Sharing your expertise in tyre recycling or sustainable development.
-4. To contribute, please fork the repository, make your changes, and submit a pull request.
+
