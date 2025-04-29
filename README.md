@@ -75,7 +75,7 @@ Swiss innovations in tyre recycling, including advanced machinery and robust pol
 4. Community Engagement: Conduct surveys on consumer awareness and product acceptance.
 
 # Contribution
-We welcome contributions to this project! You can help by:
+I welcome contributions to this project! You can help by:
 1. Reporting issues you encounter with the recycling methods or processes.
 2. Contributing code or data that can enhance the project’s goals.
 3. Sharing your expertise in tyre recycling or sustainable development.
